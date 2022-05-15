@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/WORDLE-Game-with-React/static/css/main.211b58b0.chunk.css",
+    "main.js": "/WORDLE-Game-with-React/static/js/main.08af64d5.chunk.js",
+    "main.js.map": "/WORDLE-Game-with-React/static/js/main.08af64d5.chunk.js.map",
+    "runtime-main.js": "/WORDLE-Game-with-React/static/js/runtime-main.5ab97932.js",
+    "runtime-main.js.map": "/WORDLE-Game-with-React/static/js/runtime-main.5ab97932.js.map",
+    "static/js/2.4bd328cf.chunk.js": "/WORDLE-Game-with-React/static/js/2.4bd328cf.chunk.js",
+    "static/js/2.4bd328cf.chunk.js.map": "/WORDLE-Game-with-React/static/js/2.4bd328cf.chunk.js.map",
+    "index.html": "/WORDLE-Game-with-React/index.html",
+    "static/css/main.211b58b0.chunk.css.map": "/WORDLE-Game-with-React/static/css/main.211b58b0.chunk.css.map",
+    "static/js/2.4bd328cf.chunk.js.LICENSE.txt": "/WORDLE-Game-with-React/static/js/2.4bd328cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ab97932.js",
+    "static/js/2.4bd328cf.chunk.js",
+    "static/css/main.211b58b0.chunk.css",
+    "static/js/main.08af64d5.chunk.js"
+  ]
+}
